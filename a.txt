@@ -1,1 +1,3 @@
 Content for file a.txt
+Additional line added to a.txt in B1
+Additional line added to a.txt in B3
