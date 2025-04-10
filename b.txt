@@ -1,1 +1,3 @@
 Content for file b.txt
+Additional line added to b.txt in main
+
